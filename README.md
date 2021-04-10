@@ -23,7 +23,7 @@ In this game, there are 3 rules:
     Scroll the mouse wheel to zoom and hold it down to drag the camera around.
 
 
-~Credits~
+-Credits-
 
 Music by: Anttis Instrumentals
 Soundclick: https://www.soundclick.com/artist/default.cfm?bandid=1277008&content=songs
