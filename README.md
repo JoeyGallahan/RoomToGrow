@@ -5,16 +5,16 @@ For my submission, I put a twist on the Game of Life by John Conway by making it
 
 In this game, there are 3 rules:
 
-   -Any flower with two or three neighbors survives.
-   -Any empty tile with three flowers near it becomes a flower.
-   -All other flowers die in the next turn.
+    Any flower with two or three neighbors survives.
+    Any empty tile with three flowers near it becomes a flower.
+    All other flowers die in the next turn.
 
 -Levels-
 
-   -5 turns to plant/prune flowers on the map.
-   -3 actions (planting/pruning) per turn.
-   -Harder difficulties spawn weeds that take up space and don't give your flowers room to grow.
-   -Reach the target number of flowers and you win!
+    5 turns to plant/prune flowers on the map.
+    3 actions (planting/pruning) per turn.
+    Harder difficulties spawn weeds that take up space and don't give your flowers room to grow.
+    Reach the target number of flowers and you win!
 
 -Sandbox Mode-
 
